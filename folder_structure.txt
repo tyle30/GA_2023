@@ -1,4 +1,0 @@
-This is the structure of my folders. There will be three main folders - analyses, code and data. 
-Analyses will contain preprocessing, assembly and annotation and etc.
-Code will contain all the code that will be used in the project.
-Data will contain all the data that is used in the project, i.e. Metadata, raw data and trimmed data.
